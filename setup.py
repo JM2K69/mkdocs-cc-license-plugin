@@ -13,7 +13,7 @@ def read_requirements():
 
 setup(
     name="mkdocs-cc-license-plugin",
-    version="1.0.0",
+    version="1.0.1",
     author="Jérôme Bezet-Torres",
     author_email="bezettorres.jerome@gmail.com",
     description="MkDocs plugin for automatic Creative Commons license management",
